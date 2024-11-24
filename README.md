@@ -28,6 +28,10 @@
 ### Добавление и обновление
 ![Добавление и обновление](https://github.com/NIKOLAYSSS/assets/blob/main/2.png)
 
+### Демонстрация работы
+
+![laba3_1](https://github.com/user-attachments/assets/1dbfca15-ee87-4a40-b615-ffa8c8b0f1e5)
+
 ## Архитектура приложения
 
 ### Классы:
@@ -82,6 +86,11 @@
 - Список записей с полями `ID`, `ФИО` и отметкой времени.
   
 ![Просмотр данных](https://github.com/NIKOLAYSSS/assets/blob/main/6.png)
+
+### Демонстрация работы
+
+![laba3_2](https://github.com/user-attachments/assets/0f5523db-91f3-404f-af30-a05e6afbe20d)
+
 
 ---
 
